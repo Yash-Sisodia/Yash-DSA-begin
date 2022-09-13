@@ -4,7 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Launch IntwithString",
+            "request": "launch",
+            "mainClass": "IntwithString",
+            "projectName": "Yash Java codes begin_fc9a0679"
+        },
         {
             "type": "lldb",
             "request": "custom",
