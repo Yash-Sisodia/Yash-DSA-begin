@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ifelseworking1",
+            "request": "launch",
+            "mainClass": "ifelseworking1",
+            "projectName": "Yash Java codes begin_fc9a0679"
+        },
+        {
+            "type": "java",
             "name": "Launch ifelseworking",
             "request": "launch",
             "mainClass": "ifelseworking",
