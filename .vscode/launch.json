@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Dayone",
+            "request": "launch",
+            "mainClass": "Dayone",
+            "projectName": "Yash Java codes begin_fc9a0679"
+        },
+        {
+            "type": "java",
             "name": "Launch switchcaseconcept",
             "request": "launch",
             "mainClass": "switchcaseconcept",
