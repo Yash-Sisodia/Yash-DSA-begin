@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Printnumber2",
+            "request": "launch",
+            "mainClass": "Printnumber2",
+            "projectName": "Yash Java codes begin_fc9a0679"
+        },
+        {
+            "type": "java",
             "name": "Launch Counting1",
             "request": "launch",
             "mainClass": "Counting1",
