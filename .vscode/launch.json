@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch countingwhileloop",
+            "request": "launch",
+            "mainClass": "countingwhileloop",
+            "projectName": "Yash Java codes begin_fc9a0679"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello10times",
+            "request": "launch",
+            "mainClass": "Hello10times",
+            "projectName": "Yash Java codes begin_fc9a0679"
+        },
+        {
+            "type": "java",
             "name": "Launch Printnumber2",
             "request": "launch",
             "mainClass": "Printnumber2",
