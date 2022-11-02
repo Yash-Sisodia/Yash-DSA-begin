@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch tut1",
             "request": "launch",
+            "mainClass": "Mybeginingofjava.Javajourneybegin.tut1",
+            "projectName": "Yash Java codes begin_fc9a0679"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut1",
+            "request": "launch",
             "mainClass": "Mybeginingofjava.lib.tut1",
             "projectName": "Yash Java codes begin_fc9a0679"
         },
