@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch tut5",
+            "request": "launch",
+            "mainClass": "Mybeginingofjava.Javajourneybegin.tut5",
+            "projectName": "Yash Java codes begin_fc9a0679"
+        },
+        {
+            "type": "java",
             "name": "Launch tut4",
             "request": "launch",
             "mainClass": "Mybeginingofjava.Javajourneybegin.tut4",
