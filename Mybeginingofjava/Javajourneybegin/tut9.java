@@ -53,7 +53,7 @@ public class tut9 {
 
         int div = (int) Math.pow(10,counter-1);  //100
 
-        while(ori!=0) {
+        while(div!=0) {
             int no = ori/div; //7
             System.out.println(no); //7
             ori = ori%div; //54
