@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch tut14",
+            "request": "launch",
+            "mainClass": "Mybeginingofjava.Javajourneybegin.tut14",
+            "projectName": "Yash Java codes begin_fc9a0679"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut13",
+            "request": "launch",
+            "mainClass": "Mybeginingofjava.Javajourneybegin.tut13",
+            "projectName": "Yash Java codes begin_fc9a0679"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut12",
+            "request": "launch",
+            "mainClass": "Mybeginingofjava.Javajourneybegin.tut12",
+            "projectName": "Yash Java codes begin_fc9a0679"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut11",
+            "request": "launch",
+            "mainClass": "Mybeginingofjava.Javajourneybegin.tut11",
+            "projectName": "Yash Java codes begin_fc9a0679"
+        },
+        {
+            "type": "java",
             "name": "Launch tut10",
             "request": "launch",
             "mainClass": "Mybeginingofjava.Javajourneybegin.tut10",
